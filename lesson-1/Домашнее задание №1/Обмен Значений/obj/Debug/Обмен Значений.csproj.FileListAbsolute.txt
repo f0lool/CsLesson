@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Домашнее задание №1\Обмен Значений\obj\Debug\Обмен Значений.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Домашнее задание №1\Обмен Значений\bin\Debug\Обмен Значений.exe.config
+C:\Users\user\source\repos\Домашнее задание №1\Обмен Значений\bin\Debug\Обмен Значений.exe
+C:\Users\user\source\repos\Домашнее задание №1\Обмен Значений\bin\Debug\Обмен Значений.pdb
+C:\Users\user\source\repos\Домашнее задание №1\Обмен Значений\obj\Debug\Обмен Значений.exe
+C:\Users\user\source\repos\Домашнее задание №1\Обмен Значений\obj\Debug\Обмен Значений.pdb

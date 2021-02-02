@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Домашнее задание №1\Домашнее задание №1\bin\Debug\Домашнее задание №1.exe.config
+C:\Users\user\source\repos\Домашнее задание №1\Домашнее задание №1\bin\Debug\Домашнее задание №1.exe
+C:\Users\user\source\repos\Домашнее задание №1\Домашнее задание №1\bin\Debug\Домашнее задание №1.pdb
+C:\Users\user\source\repos\Домашнее задание №1\Домашнее задание №1\obj\Debug\Домашнее задание №1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Домашнее задание №1\Домашнее задание №1\obj\Debug\Домашнее задание №1.exe
+C:\Users\user\source\repos\Домашнее задание №1\Домашнее задание №1\obj\Debug\Домашнее задание №1.pdb
