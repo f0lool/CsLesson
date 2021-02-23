@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Домашнее Задание №8\Домашнее Задание №8\bin\Debug\Домашнее Задание №8.exe.config
+C:\Users\user\source\repos\Домашнее Задание №8\Домашнее Задание №8\bin\Debug\Домашнее Задание №8.exe
+C:\Users\user\source\repos\Домашнее Задание №8\Домашнее Задание №8\bin\Debug\Домашнее Задание №8.pdb
+C:\Users\user\source\repos\Домашнее Задание №8\Домашнее Задание №8\obj\Debug\Домашнее Задание №8.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Домашнее Задание №8\Домашнее Задание №8\obj\Debug\Домашнее_Задание__8.Form1.resources
+C:\Users\user\source\repos\Домашнее Задание №8\Домашнее Задание №8\obj\Debug\Домашнее_Задание__8.Properties.Resources.resources
+C:\Users\user\source\repos\Домашнее Задание №8\Домашнее Задание №8\obj\Debug\Домашнее Задание №8.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Домашнее Задание №8\Домашнее Задание №8\obj\Debug\Домашнее Задание №8.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Домашнее Задание №8\Домашнее Задание №8\obj\Debug\Домашнее Задание №8.exe
+C:\Users\user\source\repos\Домашнее Задание №8\Домашнее Задание №8\obj\Debug\Домашнее Задание №8.pdb
+C:\Users\user\source\repos\Домашнее Задание №8\Домашнее Задание №8\obj\Debug\Домашнее_Задание__8.Form2.resources
+C:\Users\user\source\repos\Домашнее Задание №8\Домашнее Задание №8\obj\Debug\Домашнее_Задание__8.FormPlay.resources
