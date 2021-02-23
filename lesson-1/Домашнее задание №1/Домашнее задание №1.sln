@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задание1", "Анкета\Задание1.csproj", "{D81B1C26-1F84-4EFA-9FC1-0C54E87C6D6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задание2", "ИМТ\Задание2.csproj", "{E2044833-F8AB-4A34-BD1C-28D02B89895F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задание3", "Расстояние между точками\Задание3.csproj", "{F410D9C8-F63A-4F4A-BAB7-FC7060F74F55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задание4", "Обмен Значений\Задание4.csproj", "{101AD289-626E-4AAD-A987-063278CD6758}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задание5", "Вывод при помощи методов\Задание5.csproj", "{008719BB-0670-48C2-AA0E-B35324A5533B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задание6", "Задание6\Задание6.csproj", "{2F245921-7A0D-4FDC-9BE2-DD6111D8C747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D81B1C26-1F84-4EFA-9FC1-0C54E87C6D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81B1C26-1F84-4EFA-9FC1-0C54E87C6D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81B1C26-1F84-4EFA-9FC1-0C54E87C6D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81B1C26-1F84-4EFA-9FC1-0C54E87C6D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2044833-F8AB-4A34-BD1C-28D02B89895F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2044833-F8AB-4A34-BD1C-28D02B89895F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2044833-F8AB-4A34-BD1C-28D02B89895F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2044833-F8AB-4A34-BD1C-28D02B89895F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F410D9C8-F63A-4F4A-BAB7-FC7060F74F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F410D9C8-F63A-4F4A-BAB7-FC7060F74F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F410D9C8-F63A-4F4A-BAB7-FC7060F74F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F410D9C8-F63A-4F4A-BAB7-FC7060F74F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{101AD289-626E-4AAD-A987-063278CD6758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101AD289-626E-4AAD-A987-063278CD6758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101AD289-626E-4AAD-A987-063278CD6758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101AD289-626E-4AAD-A987-063278CD6758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{008719BB-0670-48C2-AA0E-B35324A5533B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008719BB-0670-48C2-AA0E-B35324A5533B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008719BB-0670-48C2-AA0E-B35324A5533B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008719BB-0670-48C2-AA0E-B35324A5533B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F245921-7A0D-4FDC-9BE2-DD6111D8C747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F245921-7A0D-4FDC-9BE2-DD6111D8C747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F245921-7A0D-4FDC-9BE2-DD6111D8C747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F245921-7A0D-4FDC-9BE2-DD6111D8C747}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {937C1309-1569-4D27-A873-140922A2A1E7}
+	EndGlobalSection
+EndGlobal

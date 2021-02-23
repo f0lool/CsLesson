@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Домашнее задание №2\Задание6\bin\Debug\Задание6.exe.config
+C:\Users\user\source\repos\Домашнее задание №2\Задание6\bin\Debug\Задание6.exe
+C:\Users\user\source\repos\Домашнее задание №2\Задание6\bin\Debug\Задание6.pdb
+C:\Users\user\source\repos\Домашнее задание №2\Задание6\obj\Debug\Задание6.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Домашнее задание №2\Задание6\obj\Debug\Задание6.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Домашнее задание №2\Задание6\obj\Debug\Задание6.exe
+C:\Users\user\source\repos\Домашнее задание №2\Задание6\obj\Debug\Задание6.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Домашнее Задание №7\Домашнее Задание №7\bin\Debug\Домашнее Задание №7.exe.config
+C:\Users\user\source\repos\Домашнее Задание №7\Домашнее Задание №7\bin\Debug\Домашнее Задание №7.exe
+C:\Users\user\source\repos\Домашнее Задание №7\Домашнее Задание №7\bin\Debug\Домашнее Задание №7.pdb
+C:\Users\user\source\repos\Домашнее Задание №7\Домашнее Задание №7\obj\Debug\Домашнее Задание №7.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Домашнее Задание №7\Домашнее Задание №7\obj\Debug\Домашнее_Задание__7.Form1.resources
+C:\Users\user\source\repos\Домашнее Задание №7\Домашнее Задание №7\obj\Debug\Домашнее_Задание__7.Form2.resources
+C:\Users\user\source\repos\Домашнее Задание №7\Домашнее Задание №7\obj\Debug\Домашнее_Задание__7.Properties.Resources.resources
+C:\Users\user\source\repos\Домашнее Задание №7\Домашнее Задание №7\obj\Debug\Домашнее Задание №7.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Домашнее Задание №7\Домашнее Задание №7\obj\Debug\Домашнее Задание №7.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Домашнее Задание №7\Домашнее Задание №7\obj\Debug\Домашнее Задание №7.exe
+C:\Users\user\source\repos\Домашнее Задание №7\Домашнее Задание №7\obj\Debug\Домашнее Задание №7.pdb
